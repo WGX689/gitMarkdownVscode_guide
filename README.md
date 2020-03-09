@@ -6,7 +6,7 @@
 
 ## 工具环境配置
 
-1. 注册 [github](https://github.com/) 账号，下载  [github](https://github.com/) 的桌面客户端 [GitHub Desktop](https://desktop.github.com/) 或 [sourcetree](https://www.sourcetreeapp.com/) 。课程使用 [sourcetree](https://www.sourcetreeapp.com/) 和 [github](http://www.github.com) 作为项目管理和协作系统。
+1. 注册 [github](https://github.com/) 账号 ，下载  [github](https://github.com/) 的桌面客户端 [GitHub Desktop](https://desktop.github.com/) 或 [sourcetree](https://www.sourcetreeapp.com/) 。课程使用 [sourcetree](https://www.sourcetreeapp.com/) 和 [github](http://www.github.com) 作为项目管理和协作系统。
 2. 下载安装 [vscode](https://code.visualstudio.com/)，课程使用 [vscode](https://code.visualstudio.com/) 编辑 [Markdown](https://help.github.com/articles/github-flavored-markdown/)文档和代码。
 3. git 入门请读 [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)，进阶请阅读 [git 权威指南](https://gitee.com/progit/) 或其 [英文版](https://git-scm.com/book/en/v2)。
 
